@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+node_modules/
+npm-debug.log
+assets/
+languages/*.pot
+style-rtl.css
+style.css
